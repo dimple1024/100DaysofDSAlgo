@@ -1,6 +1,6 @@
 # 100DaysofDSAlgo
 
-This is a part of my effort to get my hands better at Recursion,Backtracking and Dynamic Programming primarily. I have started with solving the problems from Cracking the Coding Interview. I will continue to explore more interesting problems , depending on how comfortable I get with these topics after going through all the problem statements from CTCI.
+This is a part of my effort to get myself better at Recursion,Backtracking and Dynamic Programming primarily. I have started with solving the problems from Cracking the Coding Interview. I will continue to explore more interesting problems , depending on how comfortable I get with these topics after going through all the problem statements from CTCI.
 
 I will be uploading all the approaches ranging from the naive to the most efficient approach that comes to my mind. Better approaches to a solution are most welcome.
 
