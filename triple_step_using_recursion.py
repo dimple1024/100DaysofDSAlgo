@@ -2,6 +2,7 @@
 #Cracking the coding Interview , ques 8.1
 
 #Top down approach,
+#Runtime 3**n
 def triple_step(n):
     if n<0:
         return 0
