@@ -12,3 +12,4 @@ def triple_step(n):
         return triple_step(n-1)+triple_step(n-2)+triple_step(n-3)
 
 
+print(triple_step(5))
